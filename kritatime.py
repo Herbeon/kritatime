@@ -9,7 +9,7 @@ import psutil
 from datetime import datetime
 
 WAKATIME_API_KEY = 'YOUR_WAKATIME_API_KEY'
-WATCH_FOLDER = "ADD_YOUR_FOLDER"
+WATCH_FOLDER = "ADD_YOUR_FOLDER" # "~/Documents/art/2025/"
 HEARTBEAT_INTERVAL = 120
 CHECK_INTERVAL = 60
 
@@ -20,7 +20,7 @@ def send_heartbeat(file_path, project_name):
         "Content-Type": "application/json"
     }
     payload = {
-        "time": datetime.utcnow().timestamp(),
+        "time": datetime.now(datetime.timezone.utc),
         "entity": file_path,
         "type": "file",
         "category": "coding",
