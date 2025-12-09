@@ -9,10 +9,10 @@ Pull Requests and Issues are welcome!
 Clone the repo (or download [Krita WakaTime](/free/krita-wakatime.py)):
 
 ```
-git clone https://github.com/scherepi/krita-wakatime.git
+git clone https://github.com/Herbeon/kritatime.git
 ```
 
-In `krita-hackatime.py`, change `WAKATIME_API_KEY` to your WakaTime API Key and change `WATCH_FOLDER`.
+In `kritatime.py`, change `WAKATIME_API_KEY` to your WakaTime API Key and change `WATCH_FOLDER`.
 
 
 Your file path should look like something like this:
@@ -25,6 +25,10 @@ TBD
 ### Mac
 ```
 TBD
+```
+### Linux ?? ??? ? ?
+```
+help
 ```
 
 > Don't forget to use `\\` for file path! \ or / won't work.
