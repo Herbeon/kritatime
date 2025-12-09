@@ -50,7 +50,7 @@ TBD
 help
 ```
 
-> Don't forget to use `\\` for file path! \ or / won't work. <- this is true
+> Don't forget to use `\\` for file path! \ or / won't work. <- IDK if this is true on linux I am so confsued
 
 ## Compatibility
 
