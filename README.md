@@ -36,15 +36,6 @@ In `kritatime.py`, change `WAKATIME_API_KEY` to your WakaTime API Key and change
 
 Your file path should look like something like this:
 
-### Windows
-```
-TBD
-```
-
-### Mac
-```
-TBD
-```
 ### Linux ?? ??? ? ?
 ```
 help
@@ -54,12 +45,7 @@ help
 
 ## Compatibility
 
-Tests incoming!
 
-| OS | Tested |
-| -- | ------ |
-| Windows |  |
-| Mac | |
 
 ## How Does It Work?
 
