@@ -1,1 +1,1 @@
-from kritatime import *
+from .kritatime import *
