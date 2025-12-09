@@ -1,7 +1,14 @@
 # ... I don't know how to make this work oopsie
 (I also don't know how to use github)
+
 the difference between some things being named kritatime and some krita-wakatime ToT
 
+my problems: 
+
+* krita import not resolving -> edited pylance path, but gave it the wrong path, don't know the right path to give it
+* Extension and Krita are not defined (should be imported from krita but the path is wrong qwq)
+* kritatime vs krita-wakatime
+* I don't know how to use github/virtual environments/literally anything lol :sob:
 
 
 
