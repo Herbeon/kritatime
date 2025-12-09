@@ -1,3 +1,15 @@
+# ... I don't know how to make this work oopsie
+(I also don't know how to use github)
+the difference between some things being named kritatime and some krita-wakatime ToT
+
+
+
+
+
+
+
+
+
 # DaVinci Resolve WakaTime
 
 A script to send Wakatime heartbeats from Krita, the free and open source illustration software. Forked from LucasHT22's wonderful DaVinci Resolve script that does the same thing, watching a folder for changes.
