@@ -1,5 +1,5 @@
 # ... I don't know how to make this work oopsie
-(I also don't know how to use github)
+(I also don't know how to use github I'm sorry if there are rules about forking and stuff I am just trying to make changes without affecting the actual repo)
 
 the difference between some things being named kritatime and some krita-wakatime ToT
 
@@ -25,7 +25,7 @@ Pull Requests and Issues are welcome!
 
 ## Setup
 
-Clone the repo (or download [Krita WakaTime](/free/krita-wakatime.py)):
+Clone the repo
 
 ```
 git clone https://github.com/Herbeon/kritatime.git
@@ -50,7 +50,7 @@ TBD
 help
 ```
 
-> Don't forget to use `\\` for file path! \ or / won't work.
+> Don't forget to use `\\` for file path! \ or / won't work. <- this is true
 
 ## Compatibility
 
