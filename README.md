@@ -1,3 +1,10 @@
+# dec 10: things that have been fixed
+
+* https://github.com/rbreu/krita-python-mock allows me to do krita things on vscode (turns out they had issues on vscode but would run perfectly fine in Krita.)
+* I was able to make it into an extension that could be viewed in tools -> scripts. But because it requires a while true loop, I can't run it like other Krita plugins (Krita won't let me draw while running python in the background)
+* So I altered the code so that it runs in my vscode terminal. and it is able to send heartbeats with status 202 which apparently means they are accepted but not guaranteed to actually work
+* ...they don't actually work l o l
+
 # ... I don't know how to make this work oopsie
 (I also don't know how to use github I'm sorry if there are rules about forking and stuff I am just trying to make changes without affecting the actual repo)
 
